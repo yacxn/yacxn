@@ -1,3 +1,3 @@
 # It’s not a bug. It’s an undocumented feature!
 
-![cat](https://giphy.com/embed/aNqEFrYVnsS52)
+<img src="https://github.com/yacxn/yacxn/blob/master/gif/cat.gif"
